@@ -1,4 +1,4 @@
-# ChatGPT-OpenWebUI-import-tool
+# ChatGPT-OpenWebUI Import Tool
 
 A simple Python tool to **import data exported from ChatGPT** (currently only "memories") and sync them with [OpenWebUI](https://github.com/OpenLLMAI/OpenWebUI).
 
